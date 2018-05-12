@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '33574'
     url: http://www.gutenberg.org/2009/agents/33574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32688#The-Ordeal-of-Colonel-Johns
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-04'
 gutenberg_type: Text
