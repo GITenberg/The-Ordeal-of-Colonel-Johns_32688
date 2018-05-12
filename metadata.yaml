@@ -1,0 +1,38 @@
+_repo: The-Ordeal-of-Colonel-Johns_32688
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Palais, Rudolph
+    alias: Palais, Rudi
+    gutenberg_agent_id: '35411'
+    url: http://www.gutenberg.org/2009/agents/35411
+covers:
+- cover_type: archival
+  image_path: 32688-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, George H. (George Henry)
+    aliases:
+    - Smith, George Henry
+    - Smith, Jan
+    birthdate: 1922
+    deathdate: 1996
+    gutenberg_agent_id: '33574'
+    url: http://www.gutenberg.org/2009/agents/33574
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Ordeal of Colonel Johns
+url: http://www.gutenberg.org/ebooks/32688
